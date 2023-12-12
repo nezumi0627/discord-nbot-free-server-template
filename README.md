@@ -19,7 +19,7 @@ discord.js vlasted を利用。
 ### 2. Google Workspace の設定
 
 1. [Google Workspace](https://workspace.google.co.jp) を訪れて、サインインまたは新しいアカウントを作成します。
-2. "+" ボタンをクリックし、"Apps Script" を選択して新しい Google Apps Script プロジェクトを作成します。
+2. "+新しいプロジェクト" ボタンをクリックし、新しい Google Apps Script プロジェクトを作成します。
 3. [コード.gs](https://github.com/nezumi0627/discord-nbot-free-server-template/blob/main/コード.gs)のコードをスクリプトエディタにコピーして貼り付けます。
 4. デプロイアイコン（ロケット）をクリックし、「New deployment」を選択してスクリプトをウェブアプリとしてデプロイします。
 5. トリガーから、トリガー➔タイマー➔トリガーを追加 を開く。
