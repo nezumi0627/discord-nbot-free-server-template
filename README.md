@@ -1,3 +1,5 @@
+以下を色々装飾して
+
 # discord-nbot-free-server-template
 
 サーバーなし、Glitch と Google Apps Script (GAS) を使用しよう :D
