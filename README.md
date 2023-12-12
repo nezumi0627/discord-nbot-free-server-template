@@ -35,7 +35,7 @@ discord.js vlasted を利用。
 :5分おき
 にし、保存。`
 7.保存の際に認証が来るので
-![実際の画面][https://assets.st-note.com/production/uploads/images/29053562/picture_pc_e2cbd08f6b063f22c98ed9c62e1fb55a.jpg?width=2000&height=2000&fit=bounds&quality=85]
+![実際の画面][gas認証.webp]
 構成し、デプロイされたウェブアプリの URL を取得します。
 
 ### 3. Discord 開発者ポータル
