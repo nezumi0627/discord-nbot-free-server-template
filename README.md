@@ -22,8 +22,8 @@ discord.js vlasted を利用。
 2. "+" ボタンをクリックし、"Apps Script" を選択して新しい Google Apps Script プロジェクトを作成します。
 3. [コード.gs](https://github.com/nezumi0627/discord-nbot-free-server-template/blob/main/コード.gs)のコードをスクリプトエディタにコピーして貼り付けます。
 4. デプロイアイコン（ロケット）をクリックし、「New deployment」を選択してスクリプトをウェブアプリとしてデプロイします。
-5. トリガーから、トリガー➔タイマー➔トリガーを追加 を開き、
-`実行する関数を選択
+5. トリガーから、トリガー➔タイマー➔トリガーを追加 を開く。
+6. `実行する関数を選択
 :wakeGlich
 実行するデプロイを選択
 :触らない
@@ -34,7 +34,8 @@ discord.js vlasted を利用。
 時間の間隔を選択（分）
 :5分おき
 にし、保存。`
-6.保存の際に認証が来るので
+7.保存の際に認証が来るので
+![実際の画面][https://assets.st-note.com/production/uploads/images/29053562/picture_pc_e2cbd08f6b063f22c98ed9c62e1fb55a.jpg?width=2000&height=2000&fit=bounds&quality=85]
 構成し、デプロイされたウェブアプリの URL を取得します。
 
 ### 3. Discord 開発者ポータル
