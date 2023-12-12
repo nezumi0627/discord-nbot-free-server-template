@@ -35,7 +35,7 @@ discord.js vlasted を利用。
 :5分おき
 にし、保存。`
 7.保存の際に認証が来るので
-![gas認証.webm](https://github.com/nezumi0627/discord-nbot-free-server-template/assets/103794002/0a251030-5a4d-4b2b-bea0-1997d8ecfb6a)
+   ![実際の認証画面です](gas認証.webp "実際の画面です")
 
 構成し、デプロイされたウェブアプリの URL を取得します。
 
