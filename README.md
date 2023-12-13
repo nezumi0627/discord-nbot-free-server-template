@@ -11,13 +11,13 @@ discord.js vlasted を利用。
 
 ### 1. Glitch の設定
 
-1. [Glitch](https://glitch.com) を訪れて、サインインまたは新しいアカウントを作成します。
+1. [Glitch](https://glitch.com) にアクセスし、サインインまたは新しいアカウントを作成します。
 2. "New Project" をクリックし、"Import From GitHub" を選択します。
 3. リポジトリの URL: `https://github.com/nezumi0627/discord-nbot-free-server-template` を入力し、「OK」をクリックします。
 
 ### 2. Google Workspace の設定
 
-1. [Google Workspace](https://workspace.google.co.jp) を訪れて、サインインまたは新しいアカウントを作成します。
+1. [Google Workspace](https://workspace.google.co.jp) にアクセス、サインインまたは新しいアカウントを作成します。
 2. "+新しいプロジェクト" ボタンをクリックし、新しい Google Apps Script プロジェクトを作成します。
 3. [コード.gs](https://github.com/nezumi0627/discord-nbot-free-server-template/blob/main/コード.gs)のコードをスクリプトエディタにコピーして貼り付けます。
 4. デプロイアイコン（ロケット）をクリックし、「New deployment」を選択してスクリプトをウェブアプリとしてデプロイします。
