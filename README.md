@@ -5,7 +5,7 @@
 ## 初めに
 
 **仕様:**  
-discord.js vlasted を利用。
+このコードでは discord.js を使用しています。
 
 このテンプレートを使用すると、[Glitch](https://glitch.com) にて Discord Bot を実行。[Google Apps Script](https://workspace.google.co.jp)（通称 GAS）から POST することで起動状態を維持し、実質的なサーバーレスの機能を利用できます。以下の手順に従って、ボットの設定を行ってください。
 
@@ -15,9 +15,9 @@ discord.js vlasted を利用。
 2. "New Project" をクリックし、"Import From GitHub" を選択します。
 3. リポジトリの URL: `https://github.com/nezumi0627/discord-nbot-free-server-template` を入力し、「OK」をクリックします。
 
-### 2. Google Workspace の設定
+### 2. Google script(workspace) の設定
 
-1. [Google Workspace](https://workspace.google.co.jp) にアクセス、サインインまたは新しいアカウントを作成します。
+1. [Google script](https://workspace.google.co.jp) にアクセス、サインインまたは新しいアカウントを作成します。
 2. "+新しいプロジェクト" ボタンをクリックし、新しい Google Apps Script プロジェクトを作成します。
 3. [コード.gs](https://github.com/nezumi0627/discord-nbot-free-server-template/blob/main/コード.gs)のコードをスクリプトエディタにコピーして貼り付けます。
 4. デプロイアイコン（ロケット）をクリックし、「New deployment」を選択してスクリプトをウェブアプリとしてデプロイします。
